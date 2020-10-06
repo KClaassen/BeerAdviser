@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Beer_Adviser.iml" filepath="$PROJECT_DIR$/.idea/modules/Beer_Adviser.iml" group="Beer_Adviser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Beer Adviser/app" />
+    </modules>
+  </component>
+</project>
